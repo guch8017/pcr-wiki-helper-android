@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EQSolver</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="import_from">Import</string>
+    <string name="about">About</string>
+
+    <string name="imp_hint">Input share url or code</string>
+    <string name="url_err">Not a valid url</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="about_disclaimer" translatable="false">This is an unofficial fan-made application, copyright of all resources associate with the game \"Princess Connect Re:Dive\" are belong to Cygames, Inc. </string>
+    <string name="about_hp" translatable="false">http://github.com/guch8017/</string>
+    <string name="about_api">WebPage is provided by 蘭德索爾圖書館</string>
+    <string name="about_dev" translatable="false">Developer: guch8017@github\nJavaScript written by winrey@github\nhttps://github.com/winrey/pcr-wiki-helper</string>
+    <string name="license" translatable="false">This application is licensed under MIT-License</string>
+    <string name="about_app">About EQSolver</string>
+    <string name="version" translatable="false">Version 0.1</string>
+
+    <string name="forward">Use Estertion API (Developing)</string>
+    <string name="rm_blank">Remove blank (Unrecommended)</string>
+</resources>

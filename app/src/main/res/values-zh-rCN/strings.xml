@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EQSolver</string>
+    <string name="about">关于</string>
+    <string name="about_api">网页由 蘭德索爾圖書館 提供</string>
+    <string name="about_app">关于EQSolver</string>
+    <string name="cancel">取消</string>
+    <string name="imp_hint">输入导出链接或代码</string>
+    <string name="import_from">导入</string>
+    <string name="ok">确定</string>
+    <string name="refresh">刷新</string>
+    <string name="url_err">无效的Url</string>
+    <string name="rm_blank">移除网页上方空白区域 (不推荐)</string>
+    <string name="forward">使用资源站作为图片源 (开发中)</string>
+</resources>
